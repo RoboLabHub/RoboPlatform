@@ -15,7 +15,7 @@ NB! Check the comments in client.py if you are running on python version 3.x
 <br/>
 Demo video:</br>
 ...
-</br>
+
 Components used in the robot:
 - EPS8266 Wemos D1
 - L9110S H-bridge (to drive two DC motors) 
