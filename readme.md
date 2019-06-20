@@ -5,9 +5,9 @@ The python script give you ability to script the robot movements on fly, without
 
 <h2>Instructions</h2>
 Write your WiFi network SSID and Password to <b>esp8266.ino</b>, compile it in Arduino IDE and flash to ESP8266.
-Then in serial monitor you should see how ESP8266 connects to your WiFi network and prints its IP address.
+Then in serial monitor you should see how ESP8266 connects to your WiFi network and prints its IP address.<br/>
 <br/>
-Put this IP address to client.py and run:<br/>
+Put this IP address to <b>client.py</b> and run:<br/>
 <b>python client.py</b>
 <br/>
 NB! Check the comments in client.py if you are running on python version 3.x
