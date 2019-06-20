@@ -1,4 +1,4 @@
-How to remotely control your robot from PC (built on ESP8266)
+How to remotely control your robot from PC (built on ESP8266).
 
 This is a simple approach how to control you robot from computer over WiFi using the python script and ESP8266 controller.
 The python script give you ability to script the robot movements on fly, without re-flashing controller.
