@@ -9,7 +9,7 @@ Then in serial monitor you should see how ESP8266 connects to your WiFi network 
 <br/>
 Put this IP address to client.py and run:<br/>
 python client.py
-
+<br/>
 NB! Check the comments in client.py if you are running on python version 3.x
 (to check the python version run: python -V)
 <br/>
