@@ -4,11 +4,11 @@ This is a simple approach how to control you robot from computer over WiFi using
 The python script give you ability to script the robot movements on fly, without re-flashing controller.
 
 <h2>Instructions</h2>
-Write your WiFi network SSID and Password to esp8266.ino, compile it in Arduino IDE and flash to ESP8266.
+Write your WiFi network SSID and Password to <b>esp8266.ino</b>, compile it in Arduino IDE and flash to ESP8266.
 Then in serial monitor you should see how ESP8266 connects to your WiFi network and prints its IP address.
 <br/>
 Put this IP address to client.py and run:<br/>
-python client.py
+<b>python client.py</b>
 <br/>
 NB! Check the comments in client.py if you are running on python version 3.x
 (to check the python version run: python -V)
