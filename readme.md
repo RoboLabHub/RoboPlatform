@@ -13,8 +13,9 @@ Put this IP address to <b>client.py</b> and run:<br/>
 NB! Check the comments in client.py if you are running on python version 3.x
 (to check the python version run: python -V)<br/>
 <br/>
-Demo video:</br>
-...
+Video: 
+https://youtu.be/HHvW7K9vjsE
+<br/><br/>
 
 Components used in the robot:
 - EPS8266 Wemos D1
