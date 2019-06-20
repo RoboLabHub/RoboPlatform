@@ -1,22 +1,22 @@
-How to remotely control your robot from PC (built on ESP8266).
+<h1>Remotely control your robot built on ESP8266 from PC using python script</h1>
 
 This is a simple approach how to control you robot from computer over WiFi using the python script and ESP8266 controller.
 The python script give you ability to script the robot movements on fly, without re-flashing controller.
 
-Instructions:
+<h2>Instructions</h2>
 Write your WiFi network SSID and Password to esp8266.ino, compile it in Arduino IDE and flash to ESP8266.
 Then in serial monitor you should see how ESP8266 connects to your WiFi network and prints its IP address.
-
-Put this IP address to client.py and run:
+<br/>
+Put this IP address to client.py and run:<br/>
 python client.py
 
 NB! Check the comments in client.py if you are running on python version 3.x
 (to check the python version run: python -V)
-
-Demo video:
+<br/>
+Demo video:</br>
 ...
 
-Components used in the robot:
+Components used in the robot:</br>
 - EPS8266 Wemos D1
 - L9110S H-bridge (to drive two DC motors) 
 - LM2596 Mini (3A Step Down Voltage Regulator)
